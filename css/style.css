@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+}
+
+.gameinfo {
+  float: left;
+  width: 300px;
+  border: solid black 1px;
+  text-align: center;
+  padding: 5px;
+}
+
+.lives,
+.level {
+  color: green;
+}
+
+.winLose {
+  font-size: 40px;
+}
